@@ -1,0 +1,131 @@
+{
+  "about": {
+    "browser": "firefox",
+    "version": "20.2.3"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "enable",
+  "favicon": "🍀",
+  "tabtitle": "Home",
+  "greeting": "Djorium",
+  "pagegap": 1,
+  "pagewidth": 1600,
+  "time": true,
+  "main": true,
+  "dateformat": "auto",
+  "background_blur": 3,
+  "background_bright": 1,
+  "background_type": "local",
+  "quicklinks": true,
+  "syncbookmarks": null,
+  "textShadow": 0.2,
+  "announcements": "major",
+  "review": -1,
+  "css": "/* Hides photo author credits. */\n\n#credit {\n\tvisibility: hidden;\n\topacity: 0;\n\ttransition: opacity 0.4s, visibility 0.4s;\n}\n\n#credit-container:hover #credit {\n\tvisibility: visible;\n\topacity: 1;\n}",
+  "hide": {
+    "settingsicon": true,
+    "greetings": false,
+    "weatherdesc": false,
+    "weathericon": true
+  },
+  "linkstyle": "medium",
+  "linktitles": true,
+  "linkbackgrounds": true,
+  "linknewtab": false,
+  "linksrow": 6,
+  "linkgroups": {
+    "on": false,
+    "selected": "default",
+    "groups": [
+      "default"
+    ],
+    "pinned": [],
+    "synced": []
+  },
+  "clock": {
+    "size": 1,
+    "ampm": true,
+    "analog": false,
+    "seconds": false,
+    "timezone": "auto",
+    "ampmlabel": false,
+    "worldclocks": false
+  },
+  "analogstyle": {
+    "background": "#fff2",
+    "face": "none",
+    "hands": "modern",
+    "shape": "round",
+    "border": "#ffff"
+  },
+  "worldclocks": [],
+  "unsplash": {
+    "every": "hour",
+    "collection": "",
+    "lastCollec": "night",
+    "time": 1733958357553
+  },
+  "weather": {
+    "unit": "metric",
+    "provider": "",
+    "moreinfo": "accu",
+    "forecast": "always",
+    "temperature": "actual",
+    "geolocation": "off",
+    "ccode": "AE",
+    "city": "ajman"
+  },
+  "notes": {
+    "on": false,
+    "opacity": 0.1,
+    "width": 40,
+    "align": "left"
+  },
+  "searchbar": {
+    "on": true,
+    "opacity": 0.1,
+    "newtab": false,
+    "suggestions": true,
+    "engine": "ddg",
+    "request": "",
+    "placeholder": "Godlike incompetence.",
+    "background": "#fff0"
+  },
+  "quotes": {
+    "on": false,
+    "author": false,
+    "type": "classic",
+    "frequency": "day",
+    "last": 1733948670098
+  },
+  "font": {
+    "family": "",
+    "size": "14",
+    "system": true,
+    "weightlist": [],
+    "weight": "400"
+  },
+  "move": {
+    "selection": "single",
+    "layouts": {
+      "single": {
+        "items": {},
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "main"
+          ],
+          [
+            "searchbar"
+          ],
+          [
+            "quicklinks"
+          ]
+        ]
+      }
+    }
+  }
+}
