@@ -33,4 +33,4 @@ Set bonjour background type to local file and then select the gif as the backgro
 - [@taroj1205](https://github.com/taroj1205) For tab group animations.
 - [@green.](https://github.com/greeeen-dev) Fixing blur on url bar thingy.
 - [@Dinno-DEV](https://github.com/Dinno-DEV) Zen Minimal Exit Menu (I only slightly modified the colors)
-
+- [@candlebob](https://github.com/vitaly-rudenko) New tab fade in animation.
